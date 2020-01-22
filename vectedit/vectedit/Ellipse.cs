@@ -18,6 +18,5 @@ namespace vectedit
             g.DrawEllipse(pen, x, y, width, height);
         }
         //
-        //
     }
 }
