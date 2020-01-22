@@ -1,0 +1,10 @@
+D:\vectedit\vectedit\vectedit\bin\Debug\vectedit.exe.config
+D:\vectedit\vectedit\vectedit\bin\Debug\vectedit.exe
+D:\vectedit\vectedit\vectedit\bin\Debug\vectedit.pdb
+D:\vectedit\vectedit\vectedit\obj\Debug\vectedit.csprojAssemblyReference.cache
+D:\vectedit\vectedit\vectedit\obj\Debug\vectedit.Form1.resources
+D:\vectedit\vectedit\vectedit\obj\Debug\vectedit.Properties.Resources.resources
+D:\vectedit\vectedit\vectedit\obj\Debug\vectedit.csproj.GenerateResource.cache
+D:\vectedit\vectedit\vectedit\obj\Debug\vectedit.csproj.CoreCompileInputs.cache
+D:\vectedit\vectedit\vectedit\obj\Debug\vectedit.exe
+D:\vectedit\vectedit\vectedit\obj\Debug\vectedit.pdb
